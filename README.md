@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Qurat Ul Ain</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Glow care**
+- 🔭 I’m currently working on **Connectify**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **.NET and Angular**
 
-- 💬 Ask me about **HTMl, CSS, Flutter**
+- 💬 Ask me about **Next.js, MERN**
 
 - 📫 How to reach me **anniebangash497@gmail.com**
 
